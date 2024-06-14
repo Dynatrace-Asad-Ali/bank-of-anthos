@@ -36,7 +36,7 @@ metadata:
     environment: development
     team: accounts
     tier: db
-    version: 4
+    version: 5
   name: accounts-db
 spec:
   ports:
